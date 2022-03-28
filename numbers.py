@@ -1,5 +1,5 @@
-name = input('What is your name?')
-print('Hello! My name is '+ name)
+#name = input('What is your name?')
+#print('Hello! My name is '+ name)
 
 #Fundamental Data Types
 
@@ -18,6 +18,20 @@ print(2 // 4)
 #Modulo - reminder of the div
 print(20%4)
 
+#Math Functions
+import math
+print(math.factorial(5))
+print(abs(-4))
 
+#<class 'int'>
+#<class 'int'>
+#<class 'float'>
+#11.0
+#10
+#8
+#0
+#0
+#120
+#4
 
 

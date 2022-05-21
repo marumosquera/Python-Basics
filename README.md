@@ -39,3 +39,9 @@ Dictonaries
 
 Tuples
 
+Loops
+
+Operators
+
++mucho mas
+
